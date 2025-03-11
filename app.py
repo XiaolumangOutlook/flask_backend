@@ -32,7 +32,7 @@ data = [
     'Access Count': '0'
   },
   {
-    'Account Code': 'SYDN1445',
+    'Account Code': 'SYDN1446',
     'Storage Branch': 'Sydney',
     'Account Description': 'The Salvation Army Employment Plus',
     'Barcode': 'SYD01278003',
@@ -58,13 +58,13 @@ data = [
   },
   {
     'Account Code': 'SYDN1445',
-    'Storage Branch': 'Sydney',
+    'Storage Branch': 'Melbourne',
     'Account Description': 'The Salvation Army Employment Plus',
     'Barcode': 'SYD01278004',
     'Alternate Code': '',
     'Long Description': '',
     'Contents': '',
-    'Object Code': 'C01',
+    'Object Code': 'C02',
     'Description': '',
     "Add Date": "2013-11-25",
     'Item Status': 'In',
@@ -82,14 +82,14 @@ data = [
     'Access Count': '0'
   },
   {
-    'Account Code': 'SYDN1445',
+    'Account Code': 'SYDN1447',
     'Storage Branch': 'Sydney',
-    'Account Description': 'The Salvation Army Employment Plus',
+    'Account Description': 'Injury Management',
     'Barcode': 'SYD01278005',
     'Alternate Code': '',
     'Long Description': '',
     'Contents': '',
-    'Object Code': 'C01',
+    'Object Code': 'C02',
     'Description': '',
     "Add Date": "2013-11-25",
     'Item Status': 'In',
